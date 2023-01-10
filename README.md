@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PigletHong&langs_count=5&layout=compact)](https://github.com/PigletHong/github-readme-stats)
+![PigletHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=PigletHong&theme=vue&show_icons=true)
